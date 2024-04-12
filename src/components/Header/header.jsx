@@ -1,6 +1,6 @@
 import React from "react";
 
-import '../Header/header.css';
+import './header.css';
 
 const nav__links= [
      {
